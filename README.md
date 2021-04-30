@@ -10,6 +10,7 @@ Run the app.py file and you will be prompted with "Enter stock(s):"
 
 'https://finviz.com/quote.ashx?t=' + <THE_STOCK>
 
+'https://www.nasdaq.com/market-activity/stocks/' + <THE_STOCK> + '/sec-filings'
+
 'https://stocktwits.com/symbol/' + <THE_STOCK>
 
-'https://www.nasdaq.com/market-activity/stocks/' + <THE_STOCK> + '/sec-filings'
